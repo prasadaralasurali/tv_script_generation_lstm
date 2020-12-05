@@ -14,10 +14,10 @@ data/Seinfeld_Scripts.txt <Br>
 The code for LSTM is implemented in the `dlnd_tv_script_generation.ipynb`. 
 
 ### Requirement
-Python 3
-numpy
-torch
-pandas
+Python 3 <Br>
+numpy <Br>
+torch <Br>
+pandas <Br>
 
 
 
